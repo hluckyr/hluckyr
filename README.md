@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hana
-- 🌱 I’m currently learning coding at The Coding Boot Camp at UNC Charlotte
+- 🌱 I’m currently learning coding at UNC Charlotte
 - 📫 How to reach me hanareiko@gmail.com
 
 <!---
